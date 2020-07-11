@@ -1,0 +1,8 @@
+title: Coolbei.GitHub.com
+description: my git blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
